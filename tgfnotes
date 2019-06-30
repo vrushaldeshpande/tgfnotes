@@ -5,3 +5,9 @@ What Kind of Architecture Does the TOGAF Standard Deal With?
 	The ..Technology Architecture describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure, middleware, networks, communications, processing, standards,
 etc.
 	
+Library resources are organized into four sections:
+■ Section 1. Foundation Documents
+■ Section 2. Generic Guidance and Techniques
+■ Section 3. Industry-Specific Guidance and Techniques
+■ Section 4. Organization-Specific Guidance and Techniques
+
