@@ -1,7 +1,7 @@
 What Kind of Architecture Does the TOGAF Standard Deal With?
-	The Business Architecture defines the business strategy, governance, organization, and key business processes
-	The Data Architecture describes the structure of an organization’s logical and physical data assets and data management resources
-	The Application Architecture provides a blueprint for the individual applications to be deployed, their interactions, and their 	relationships to the core business processes of the organization
-	The Technology Architecture describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure, middleware, networks, communications, processing, standards,
+	The ..Business Architecture defines the business strategy, governance, organization, and key business processes
+	The ..Data Architecture describes the structure of an organization’s logical and physical data assets and data management resources
+	The ..Application Architecture provides a blueprint for the individual applications to be deployed, their interactions, and their 	relationships to the core business processes of the organization
+	The ..Technology Architecture describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure, middleware, networks, communications, processing, standards,
 etc.
 	
